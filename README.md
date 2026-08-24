@@ -1,4 +1,5 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Arthur and I'm a Internet Systems student, from Brazil</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Arthur </h2>
+<p>I'm a Internet Systems student, from Brazil</p>
 
 ###
 
