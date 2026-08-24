@@ -6,7 +6,19 @@
 <img data-importer="image" align="right" height="150" src="https://i.pinimg.com/originals/6b/91/83/6b91833d6fe4882ff65eed3665d959c0.jpg"  />
 
 ###
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
+###
+
+<p data-importer="text" align="left">I'm a Internet Systems student, from Brazil<br><br>- 📚 Learning SQL, JavaScript</p>
+
+###
+
+
+
+###
+
+<h3 data-importer="text" align="left">🛠 Language and tools: </h3>
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -14,19 +26,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-</div>
-
 ###
 
 <div data-importer="socials" align="left">
