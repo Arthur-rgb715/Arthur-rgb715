@@ -10,7 +10,13 @@
 
 ###
 
-<p data-importer="text" align="left">I'm a Internet Systems student, from Brazil<br><br>- 📚 Learning SQL, JavaScript</p>
+<p data-importer="text" align="left">
+  I'm a Internet Systems student, from Brazil<br><br>- 
+  📚 Stacks: 
+  -SQL: Data analysis and maintenance
+  -JavaScript: Front-end and Back-end (Node-Js)
+  -Git/Github: Version control and code management
+</p>
 
 ###
 
