@@ -48,4 +48,5 @@
 ###
 
 <h2  data-importer="text" align="left">Philosophizing:</h2>
-<p>📖I just know that I know nothing, because the more I learn, the more I know that there is so much more</p>
+<p>📖I just know that I know nothing. 
+  Sócrates</p>
