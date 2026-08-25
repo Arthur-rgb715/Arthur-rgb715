@@ -15,8 +15,8 @@
 ###
 
 <ul>
-  <h3>📱Stacks</h3>
-  <li>SQL:Control, analysis and maintenance of data</li>
+  <h3>📱Stacks:  </h3>
+  <li>SQL: Control, analysis and maintenance of data</li>
   <li>JavaScript: Front-end and Back-end(Node.Js)</li>
   <li>Git/Github: Project organization and version control</li>
 </ul>
