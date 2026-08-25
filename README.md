@@ -10,12 +10,12 @@
 
 ###
 
-<p data-importer="text" align="left">I'm a Internet Systems student, from Brazil<br><br>- </p>
+<p data-importer="text" align="left">I'm a Internet Systems student, from Brazil </p>
 
 ###
 
 <ul>
-  <h3>📱Stacks:  </h3>
+  <h3>  📱Stacks:  </h3>
   <li>SQL: Control, analysis and maintenance of data</li>
   <li>JavaScript: Front-end and Back-end(Node.Js)</li>
   <li>Git/Github: Project organization and version control</li>
